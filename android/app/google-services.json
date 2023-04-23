@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "586566266150",
+    "project_id": "homeal-f0d6f",
+    "storage_bucket": "homeal-f0d6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586566266150:android:cae0856e87b46169fe25e7",
+        "android_client_info": {
+          "package_name": "com.example.homeal_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586566266150-m54j26ujkttnktqu9dn4pau5h0tcs26v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc5S4rHPMlkii-TpWa_DzL046MIC2m7pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586566266150-m54j26ujkttnktqu9dn4pau5h0tcs26v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "586566266150-pssdjevqcrgnrqou09k2rsu2410haf1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.homealFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
